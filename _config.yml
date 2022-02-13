@@ -15,7 +15,7 @@
 
 
 ## => Site Settings
-##############################
+###############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
@@ -34,7 +34,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : # "person" (default), "`organization"
   name      : zx1ccc
   url       : 
   avatar    : http://q1.qlogo.cn/g?b=qq&nk=2011563741&s=640  # path or url of avatar image (square)
